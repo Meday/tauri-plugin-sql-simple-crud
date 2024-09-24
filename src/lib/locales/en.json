@@ -1,0 +1,14 @@
+{
+    "load_fixtures": "Load Fixtures",
+    "delete_all": "Delete All",
+    "account": {
+        "new": "New Account",
+        "email": "Email",
+        "password": "Password",
+        "alias": "Alias",
+        "status": "Status",
+        "last_login": "Last Login",
+        "created_at": "Created At",
+        "updated_at": "Updated At"
+    }
+}

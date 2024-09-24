@@ -1,0 +1,14 @@
+{
+    "load_fixtures": "Charger les Fixtures",
+    "delete_all": "Tout Supprimer",
+    "account": {
+        "new": "Nouveau Compte",
+        "email": "Email",
+        "password": "Mot de Passe",
+        "alias": "Alias",
+        "status": "Statut",
+        "last_login": "Dernière Connexion",
+        "created_at": "Créé le",
+        "updated_at": "Mis à Jour le"
+    }
+}
